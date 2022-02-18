@@ -3,13 +3,10 @@
   ![Seungwon Choi](https://capsule-render.vercel.app/api?type=soft&color=40e0d0&height=200&section=header&text=Seungwon%20Choi&fontSize=70&desc=A%20Challenging%20Developer&fontAlignY=45&descAlignY=70&animation=fadeIn)
   </br>
   </br>
-  ## Career
-   <div>
-      (2022. 03 - 2022. 11) Tech Mentee at Apple Developer Academy, Pohang, Korea </br>
-      (2021. 07 - 2022. 02) Software Engineer Internship at Inkah, San Francisco, US </br>
-      (2021. 01 - 2021. 02) Web Developer Internship at Abacus, Seoul, Korea </br>
-   </div>
-  </br>
+  ## Work Experiences
+  - Tech Mentee at Apple Developer Academy, Pohang, Korea (2022. 03 - 2022. 11) 
+  - Software Engineer Internship at Inkah, San Francisco, US (2021. 07 - 2022. 02) 
+  - Web Developer Internship at Abacus, Seoul, Korea (2021. 01 - 2021. 02) 
   </br>
   
   ## Tech Stack
@@ -19,5 +16,11 @@
   </br>
   ## My GitHub Stats
   [![Seungwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unuhqueen&theme=radical)](https://github.com/unuhqueen/github-readme-stats)
+  <br/>
+  <br/>
+  ## Get in Touch
+  - E-mail: csw98213@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/%EC%8A%B9%EC%9B%90-%EC%B5%9C-bb4662200/
+  - Blog: https://velog.io/@csw98213
 
 </div>
