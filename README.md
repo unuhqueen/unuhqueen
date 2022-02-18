@@ -3,7 +3,7 @@
   ![Seungwon Choi](https://capsule-render.vercel.app/api?type=soft&color=40e0d0&height=200&section=header&text=Seungwon%20Choi&fontSize=70&desc=A%20Challenging%20Developer&fontAlignY=45&descAlignY=70&animation=fadeIn)
   </br>
   </br>
-  ## Work Experiences
+  ## Career
   - Tech Mentee at Apple Developer Academy, Pohang, Korea (2022. 03 - 2022. 11) 
   - Software Engineer Internship at Inkah, San Francisco, US (2021. 07 - 2022. 02) 
   - Web Developer Internship at Abacus, Seoul, Korea (2021. 01 - 2021. 02) 
