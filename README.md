@@ -4,7 +4,7 @@
   </br>
   </br>
   ## Career
-  - iOS Engineer Internship at PGN Inc., Tokyo, Japan (2023. 06 - 2024. 03)
+  - iOS Engineer Internship at PGN, Tokyo, Japan (2023. 06 - 2024. 03)
   - Apple Developer Academy @ POSTECH, Pohang, Korea (2022. 03 - 2022. 12) 
   - Software Engineer Internship at Inkah, San Francisco, US (2021. 07 - 2022. 02) 
   - Web Developer Internship at Abacus, Seoul, Korea (2021. 01 - 2021. 02) 
