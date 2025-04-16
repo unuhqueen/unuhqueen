@@ -4,10 +4,10 @@
   </br>
   </br>
   ## Career
-  - iOS Engineer Internship at PGN, Tokyo, Japan (2023. 06 - 2024. 03)
+  - Web Developer at SMC Korea, Seoul, Korea (2024. 10 - ing)
+  - iOS Developer Internship at PGN, Tokyo, Japan (2023. 06 - 2024. 03)
   - Apple Developer Academy @ POSTECH, Pohang, Korea (2022. 03 - 2022. 12) 
   - Software Engineer Internship at Inkah, San Francisco, US (2021. 07 - 2022. 02) 
-  - Web Developer Internship at Abacus, Seoul, Korea (2021. 01 - 2021. 02) 
   </br>
   
   ## Tech Stack
@@ -22,6 +22,5 @@
   ## Get in Touch
   - E-mail: csw98213@gmail.com
   - LinkedIn: https://www.linkedin.com/in/%EC%8A%B9%EC%9B%90-%EC%B5%9C-bb4662200/
-  - Blog: https://velog.io/@csw98213
 
 </div>
